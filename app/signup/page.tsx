@@ -49,7 +49,7 @@ export default function Signup() {
                 </div>
             </div>
             <div>
-                <button className="w-full my-5 bg-blue-600 text-white p-2 rounded">Create account</button>
+                <button  className="w-full my-5 bg-blue-600 text-white p-2 rounded">Create account</button>
             </div>
         </div>
     </div>
